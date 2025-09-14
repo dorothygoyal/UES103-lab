@@ -18,3 +18,4 @@ int main() {
 	printf ("roots are %d and %d", x1,x2);
 	return 0;
 }
+
