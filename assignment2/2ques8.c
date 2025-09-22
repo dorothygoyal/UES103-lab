@@ -6,8 +6,10 @@
 
 int main() {
 	char const name="dorothy";
-	int rollno= 1025030170;
-	char c= '*';
-	
-	return 0;	
+	int rollno = 1025030170;
+	char ch;
+	printf("enter char \n");
+	scanf("%c",&ch);
+	printf("%d",sizeof(char));
+	return 0;
 }
